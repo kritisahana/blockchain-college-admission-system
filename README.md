@@ -75,4 +75,14 @@ The system eliminates manual manipulation, improves transparency, and provides r
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login Page](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Smart Contract Deployment
+![Smart Contract](contract.png)S
 
