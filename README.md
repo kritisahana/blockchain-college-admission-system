@@ -77,12 +77,44 @@ The system eliminates manual manipulation, improves transparency, and provides r
 
 ## Screenshots
 
-### Login Page
-![Login Page](login.png)
+## Screenshots
 
 ### Dashboard
 ![Dashboard](dashboard.png)
 
-### Smart Contract Deployment
-![Smart Contract](contract.png)S
+### Connect Wallet
+![Connect Wallet](connectWallet.png)
+
+### Connected As Admin
+![Connected As Admin](connectedAsAdmin.png)
+
+### Admin Dashboard
+![Admin Dashboard](adminDashboard.png)
+
+### Add College and Signing
+![Add College and Signing](addCollegeAndSigning.png)
+
+### Transaction Confirmation (Admin)
+![Transaction Confirmation](transactionConfirmation-Admin.png)
+
+### Broadcasting Transaction
+![Broadcasting](broadcasting.png)
+
+### Block Visualization
+![Block Visualization](blockVisualization.png)
+
+### Polygon View
+![Polygon View](polygonView.png)
+
+### Student Dashboard
+![Student Dashboard](studentDashboard.png)
+
+### Student Apply
+![Student Apply](studentApply.png)
+
+### Student Transaction
+![Student Transaction](studentTransaction.png)
+
+### Smart Contract Creation
+![Contract Creation](contractCreation.png)
 
